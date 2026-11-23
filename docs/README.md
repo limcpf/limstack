@@ -15,4 +15,4 @@ limstack은 Markdown으로 작성한 기술 문서를 주제별 stack으로 읽�
 
 [홈과 문서 상세 화면 스케치](화면-스케치.html)에서 접힌 목차와 본문 배치를 볼 수 있어.
 
-문서 원본은 프로젝트의 `docs/`에서 편집해. 개인 Syncthing 폴더의 `markdowns/projects/limstack/docs/`는 모바일 열람용 사본이야.
+설계 문서는 이 저장소의 `docs/`에서 관리해. 모바일에서는 `~/documents/markdowns/projects/limstack/README.md`의 링크로 GitHub에 있는 최신본을 열어.
