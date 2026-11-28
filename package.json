@@ -1,0 +1,20 @@
+{
+  "name": "limstack",
+  "version": "0.0.1",
+  "description": "Astro 기반 개인 기술 문서 및 정적 블로그",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview"
+  },
+  "author": {
+    "name": "limcpf",
+    "email": "limcdevblog@gmail.com",
+    "url": "https://github.com/limcpf"
+  },
+  "license": "UNLICENSED",
+  "type": "module"
+}
